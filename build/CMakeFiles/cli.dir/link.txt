@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/cli.dir/src/main.cpp.o CMakeFiles/cli.dir/src/tftp_cli.cpp.o -o cli 
