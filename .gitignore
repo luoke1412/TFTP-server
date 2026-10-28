@@ -1,1 +1,16 @@
 build/
+.vscode/
+d.txt
+myhead.h
+test.cpp
+t.out
+HTTP/
+IO/
+chatroom/
+cmaketest/
+lib/
+pool/
+test
+network/
+t.out
+进程与线程/
